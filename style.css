@@ -1,0 +1,112 @@
+ /* The style for my links text */ 
+.links {           
+    width: 8%;    
+    float: left;
+}
+ /* The style for my buttons */ 
+.button {
+    width: 20px;
+    height: 100px;
+    color: #00E04A; /*Custom font color from Coolors */ 
+    font-family: 'Sansita'; /*Custom font from GoogleFonts */
+    text-align: center;
+}
+    
+.button:hover {
+    color: yellow;
+}    
+
+ /* The style for my Header 1 text */ 
+h1 {
+    font-family: 'Sansita', sans-serif; /*Custom font from GoogleFonts */
+    font-size: 100px;
+    color: #00E04A; /*Custom font color from Coolors */ 
+    text-align: center;
+    margin: 0;
+}
+
+  /* More style code for my buttons text */  
+a {
+    text-decoration:none;
+    font-family: 'Sansita'; /*Custom font from GoogleFonts */
+    text-align: center;
+    font-size: 200%;
+    padding: 30px 50px;
+   
+}
+ /* The style for my background picture */ 
+body {
+    background: url(anchor-lee.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+ /* The style for my content text */
+.p1 {
+    font-family: 'Sansita', sans-serif;
+    font-size: 20px;
+    color: 	#777 ; /*Custom font color from Coolors */ 
+    text-align: center; 
+    padding: 20px 50px;
+    margin: auto;
+}
+ /* My content class */
+.content {
+    float:left;
+    width: 70%;
+}
+
+ /* My corner image class */
+.cornerImage { 
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+
+}
+ /* My photo credit class */
+.photocredit {
+    font-family: 'Sansita', sans-serif; /*Custom font from GoogleFonts */
+    font-size: 15px;
+    color: #00E04A; /*Custom font color from Coolors */ 
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    
+}
+
+ /* My photo credit2 class */ 
+.cornerImage2 {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+ /* Hover for my credit text */
+.photocredit:hover { 
+    color: yellow;
+}
+
+/* My main image class */
+.mainimage { 
+    display: block;
+    margin: auto;
+}
+
+
+
+
+
+ 
+
+
+    
+
+
+
+
+
+
+ 
+
+
